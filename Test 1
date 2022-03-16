@@ -1,0 +1,13 @@
+var numero1 = prompt("Ingrese numero1: ");
+var numero2 = prompt("Ingrese numero2: ");
+var numero3 = prompt("Ingrese numero3: ");
+var suma = parseFloat(numero1)+parseFloat(numero2)+parseFloat(numero3);
+var promedio = suma / 3;
+console.log("Numero Uno: "+numero1)
+console.log("Numero Dos: "+numero2)
+console.log("Numero Tres: "+numero3)
+console.log("El promedio de los 3 es: "+parseFloat(promedio));
+
+        
+    
+
